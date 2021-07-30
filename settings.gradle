@@ -1,0 +1,3 @@
+rootProject.name = "Document Verification"
+include ':app'
+include ':docVerify'

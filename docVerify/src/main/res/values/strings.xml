@@ -1,0 +1,7 @@
+<resources>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="verify_id">Your document is needed to verify your identity. We will
+        never share your personal information
+        without your permission</string>
+    <string name="id_proof">In order to verify your profile Please upload any one of the document.</string>
+</resources>
